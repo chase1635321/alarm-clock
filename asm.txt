@@ -1,0 +1,11 @@
+0x00400a70                   55  push rbp
+0x00400a71               4889e5  mov rbp, rsp
+0x00400a74             4883ec50  sub rsp, 0x50
+0x00400a78               897dbc  mov dword [rbp - 0x44], edi
+0x00400a7b             488975b0  mov qword [rbp - 0x50], rsi
+0x00400a7f   64488b042528000000  mov rax, qword fs:[0x28]
+0x00400a88             488945f8  mov qword [rbp - 8], rax
+0x00400a8c                 31c0  xor eax, eax
+0x00400a8e     48c745d8460d4000  mov qword [rbp - 0x28], 0x400d46
+0x00400a96     48c745e000000000  mov qword [rbp - 0x20], 0
+

@@ -1,1 +1,51 @@
 # Add actions to this config
+
+## Alarms
+ - M-F 6:00
+
+## Voices
+ - Download high quality recordings for voice commands
+ - Use liam nissan or Jarvis or something
+
+
+## Notifications
+ - Dinner, clean, leave for CSPAC
+ - Wallet, keys, access card
+ - Bring extra things to work on monday
+ - Sleep
+ - Push
+ - When leaving, display to-bring list in full screen (time at top)
+
+## Music
+ - Random song from morning playlist for alarm
+ - Random song from night playlist before sleep
+
+Assembly
+ - Display xchg rax, rax challenge
+ - Display mathy asm example
+ - Generate arithmatic thing to reverse
+
+TCPDump
+ - Notify interesting urls
+ - Color interesting urls
+ - Filter out uninteresting urls
+ - Color similar ips the same
+
+Calendar
+ - Display tasks for today, button for whole week
+
+Lights
+ - Turn on/off when leave and arrive
+ - Light alarm
+
+## Timers
+ - MWF dinner
+
+## Voice commands (or use hotkeys, keyboard behind bed)
+ - "Weekly calendar" for full calendar view
+ - "Assembly" for assembly challenge
+ - "screen off" for screen off
+ - "screen on" for screen on
+ - "lights on" for lights on
+ - "lights off" for lights off
+ - "tcp dump" for tcpdump
